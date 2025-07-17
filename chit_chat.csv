@@ -1,0 +1,1922 @@
+id,content,type,category
+1,How has running influenced you?,question,general
+2,I can't believe how fast this week went,statement,daily_experience
+3,How do you stay motivated with memories?,question,general
+4,How has libraries influenced you?,question,general
+5,What's your favorite outdoor activity?,question,preferences
+6,Tell me about art,statement,general_statement
+7,What's surprising about movies?,question,entertainment
+8,What's challenging about communities?,question,general
+9,What's your favorite podcasts?,question,preferences
+10,What's rewarding about pets?,question,general
+11,How do you share nature with others?,question,general
+12,How do you stay motivated with parks?,question,general
+13,What's surprising about cycling?,question,general
+14,What's your favorite travel?,question,preferences
+15,What's your favorite cards?,question,preferences
+16,What's your favorite childhood memory?,question,preferences
+17,What's your take on nature?,question,general
+18,What's your spirit animal?,question,general
+19,How do you share drawing with others?,question,general
+20,Tell me about success,statement,general_statement
+21,What's your relationship with nature?,question,relationships
+22,What's challenging about beaches?,question,general
+23,How would you describe wonder?,question,hypothetical
+24,What's your take on goals?,question,general
+25,What's interesting about work?,question,career
+26,What's challenging about wisdom?,question,general
+27,What do you think about photography?,question,opinions
+28,How would you describe honesty?,question,hypothetical
+29,What hobbies do you enjoy?,question,general
+30,What advice would you give about cities?,question,hypothetical
+31,What's your goal with independence?,question,general
+32,The weather is perfect today,statement,daily_experience
+33,What was your favorite game to play with friends?,question,preferences
+34,I went to an amazing concert last week,statement,experiences
+35,What's your favorite crafts?,question,preferences
+36,What's on your mind?,question,general
+37,What's your goal with crafts?,question,general
+38,What's your relationship with writing?,question,relationships
+39,What's rewarding about mountains?,question,general
+40,What's your opinion on online dating?,question,opinions
+41,What role does goals play in your life?,question,general
+42,What do you think about communities?,question,opinions
+43,What's your relationship with solitude?,question,relationships
+44,What's interesting about reading?,question,general
+45,How do you stay motivated with traditions?,question,general
+46,What was your favorite toy as a child?,question,preferences
+47,What's your take on curiosity?,question,general
+48,What's your favorite nature?,question,preferences
+49,I experienced something completely new,statement,experiences
+50,What do you think about spontaneity?,question,opinions
+51,What's your favorite cultural tradition?,question,preferences
+52,"If you could meet your future self, what would you ask?",question,hypothetical
+53,What's your take on success?,question,general
+54,What's rewarding about routine?,question,daily_life
+55,What's your take on meditation?,question,general
+56,I'm aiming to read more books,statement,future_plans
+57,How do you feel about pets?,question,opinions
+58,What role does volunteering play in your life?,question,general
+59,What's your favorite mode of transportation?,question,preferences
+60,How do you share running with others?,question,general
+61,How would you describe independence?,question,hypothetical
+62,What's challenging about kindness?,question,general
+63,How do you unwind after work?,question,career
+64,What's the most beautiful thing you've ever seen?,question,general
+65,How do you feel about cycling?,question,opinions
+66,What do you think about dreams?,question,opinions
+67,How do you approach pets?,question,general
+68,What's surprising about photography?,question,general
+69,How important is pets to you?,question,general
+70,What's your favorite type of weather for outdoor activities?,question,preferences
+71,What's your most used phone app?,question,general
+72,Tell me about solitude,statement,general_statement
+73,How do you approach technology?,question,general
+74,How do you approach spontaneity?,question,general
+75,What's interesting about yoga?,question,general
+76,What do you think about nature?,question,opinions
+77,What's your comfort movie?,question,entertainment
+78,What's challenging about learning?,question,general
+79,What's your favorite season and why?,question,preferences
+80,What's your goal with kindness?,question,general
+81,How do you feel about routine?,question,opinions
+82,How important is cities to you?,question,general
+83,What role does loyalty play in your life?,question,general
+84,What's rewarding about adventure?,question,general
+85,What's your take on climate change?,question,general
+86,How do you stay motivated with podcasts?,question,general
+87,How do you stay motivated with growth?,question,general
+88,What's your favorite app?,question,preferences
+89,How important is goals to you?,question,general
+90,What's your take on memories?,question,general
+91,How important is volunteering to you?,question,general
+92,What's your goal with peace?,question,general
+93,What's challenging about memories?,question,general
+94,What's your favorite friendship?,question,preferences
+95,What's your favorite photography?,question,preferences
+96,What's your take on adventure?,question,general
+97,What's your experience with creativity?,question,food
+98,How has success influenced you?,question,general
+99,What's challenging about podcasts?,question,general
+100,How do you stay motivated with books?,question,entertainment
+101,What's rewarding about independence?,question,general
+102,What advice would you give about dreams?,question,hypothetical
+103,What's surprising about family?,question,relationships
+104,How would you describe gardening?,question,hypothetical
+105,I'm drawn to creative pursuits,statement,general_statement
+106,What's surprising about chess?,question,general
+107,How do you share memories with others?,question,general
+108,Did you have any pets growing up?,question,memories
+109,What's interesting about museums?,question,general
+110,What's your experience with adventure?,question,general
+111,Tell me about movies,statement,general_statement
+112,What's your favorite thing about different cultures?,question,preferences
+113,How would you describe cards?,question,hypothetical
+114,How do you share cards with others?,question,general
+115,What's rewarding about friendship?,question,relationships
+116,What's your goal with loyalty?,question,general
+117,What's challenging about patience?,question,general
+118,What's interesting about libraries?,question,general
+119,What advice would you give about courage?,question,hypothetical
+120,What's interesting about writing?,question,general
+121,What's your experience with crafts?,question,general
+122,How do you share podcasts with others?,question,general
+123,How important is writing to you?,question,general
+124,What's your favorite classic movie?,question,preferences
+125,What advice would you give about meditation?,question,hypothetical
+126,What's your experience with wisdom?,question,general
+127,What's interesting about independence?,question,general
+128,What's your favorite festivals?,question,preferences
+129,What's rewarding about writing?,question,general
+130,How do you approach learning?,question,general
+131,How would you describe challenges?,question,hypothetical
+132,What role does risk play in your life?,question,general
+133,What's surprising about parks?,question,general
+134,What's your goal with adventure?,question,general
+135,How would you describe sports?,question,hypothetical
+136,How do you handle stress?,question,general
+137,How important is singing to you?,question,general
+138,What role does running play in your life?,question,general
+139,What's your favorite thing about technology?,question,preferences
+140,What's your favorite genre of music?,question,preferences
+141,What's your experience with success?,question,general
+142,What do you think about innovation?,question,opinions
+143,How do you approach concerts?,question,general
+144,What's rewarding about spontaneity?,question,general
+145,What role does learning play in your life?,question,general
+146,I went to a museum and loved it,statement,personal_preferences
+147,What's your favorite way to start the week?,question,preferences
+148,How would you describe parks?,question,hypothetical
+149,I'm planning to start exercising regularly,statement,future_plans
+150,How do you approach courage?,question,general
+151,What's your approach to making friends?,question,relationships
+152,How would you describe beaches?,question,hypothetical
+153,What's your favorite holiday?,question,preferences
+154,What's your relationship with peace?,question,relationships
+155,What do you think about concerts?,question,opinions
+156,What's your favorite gardening?,question,preferences
+157,How do you feel about traditions?,question,opinions
+158,What's your experience with singing?,question,general
+159,How do you approach hiking?,question,general
+160,I've been spending more time outdoors,statement,general_statement
+161,How has goals influenced you?,question,general
+162,How do you approach dancing?,question,general
+163,How do you approach cities?,question,general
+164,What's your goal with drawing?,question,general
+165,What's your experience with travel?,question,travel
+166,How has dancing influenced you?,question,general
+167,What's your relationship with risk?,question,relationships
+168,What's surprising about goals?,question,general
+169,How would you describe learning?,question,hypothetical
+170,How do you approach communities?,question,general
+171,How do you stay motivated with pets?,question,general
+172,How do you share movies with others?,question,entertainment
+173,What do you think about wisdom?,question,opinions
+174,How do you stay motivated with loyalty?,question,general
+175,What's your relationship with sports?,question,relationships
+176,I'm passionate about learning,statement,personal_preferences
+177,I'm a bit worried about the future,statement,emotional_expression
+178,What's your take on festivals?,question,general
+179,What advice would you give about innovation?,question,hypothetical
+180,Tell me about cards,statement,general_statement
+181,What's the best gift you received as a child?,question,general
+182,"If you could read minds, would you want to?",question,hypothetical
+183,What's challenging about friendship?,question,relationships
+184,What's your relationship with photography?,question,relationships
+185,I'm passionate about environmental issues,statement,personal_preferences
+186,What's your favorite thing about your current life stage?,question,preferences
+187,What advice would you give about museums?,question,hypothetical
+188,What's challenging about innovation?,question,general
+189,"If you had to give up one of your senses, which would it be?",question,general
+190,How do you stay motivated with technology?,question,general
+191,How has kindness influenced you?,question,general
+192,What's interesting about sports?,question,general
+193,How has hobbies influenced you?,question,general
+194,How would you describe happiness?,question,hypothetical
+195,What's challenging about travel?,question,travel
+196,What's your goal with beaches?,question,general
+197,What's your favorite thing about learning new skills?,question,preferences
+198,How do you approach creativity?,question,food
+199,How do you share hobbies with others?,question,general
+200,What advice would you give about challenges?,question,hypothetical
+201,What's your take on books?,question,entertainment
+202,How do you approach reading?,question,general
+203,Did you have a special blanket or stuffed animal?,question,general
+204,What's your ideal learning environment?,question,general
+205,How do you approach mountains?,question,general
+206,How has hiking influenced you?,question,general
+207,What do you think about discovery?,question,opinions
+208,What's your take on cycling?,question,general
+209,What's your take on companionship?,question,general
+210,How do you approach chess?,question,general
+211,What's challenging about gardening?,question,general
+212,What's your favorite streaming service?,question,preferences
+213,How do you stay motivated with meditation?,question,general
+214,How would you describe puzzles?,question,hypothetical
+215,Are you more of an introvert or extrovert?,question,general
+216,How do you approach art?,question,general
+217,How do you approach sports?,question,general
+218,What's your take on traditions?,question,general
+219,What's interesting about books?,question,entertainment
+220,What's interesting about photography?,question,general
+221,What's your goal with dancing?,question,general
+222,Tell me about innovation,statement,general_statement
+223,What role does courage play in your life?,question,general
+224,How do you stay motivated with wisdom?,question,general
+225,I went to a festival,statement,experiences
+226,What's your favorite sports?,question,preferences
+227,How do you stay motivated with cards?,question,general
+228,What's your relationship with puzzles?,question,relationships
+229,What's your take on happiness?,question,general
+230,What advice would you give about nature?,question,hypothetical
+231,What's your favorite genre of movies?,question,preferences
+232,Tell me about museums,statement,general_statement
+233,What's your take on learning?,question,general
+234,What's rewarding about music?,question,entertainment
+235,What advice would you give about festivals?,question,hypothetical
+236,What's the highlight of your week so far?,question,general
+237,How important is museums to you?,question,general
+238,How has sports influenced you?,question,general
+239,How important is change to you?,question,general
+240,What's your take on dancing?,question,general
+241,What's your favorite type of cuisine?,question,preferences
+242,Tell me about companionship,statement,general_statement
+243,"If you could learn any skill instantly, what would it be?",question,hypothetical
+244,What advice would you give about memories?,question,hypothetical
+245,What's new with you?,question,general
+246,How do you approach running?,question,general
+247,What's surprising about adventure?,question,general
+248,What's interesting about concerts?,question,general
+249,How do you share writing with others?,question,general
+250,How do you share change with others?,question,general
+251,What's surprising about beaches?,question,general
+252,I really value honesty,statement,personal_preferences
+253,What's interesting about change?,question,general
+254,What's your experience with art?,question,general
+255,What's interesting about travel?,question,travel
+256,What's rewarding about dreams?,question,general
+257,How do you feel about adventure?,question,opinions
+258,What do you think about art?,question,opinions
+259,What role does independence play in your life?,question,general
+260,How do you feel about reading?,question,opinions
+261,How do you share cities with others?,question,general
+262,How do you think we can make the world better?,question,opinions
+263,What's your relationship with chess?,question,relationships
+264,What's your take on wisdom?,question,general
+265,How do you approach festivals?,question,general
+266,What's rewarding about learning?,question,general
+267,How do you stay motivated with sports?,question,general
+268,What's your goal with pets?,question,general
+269,What advice would you give about change?,question,hypothetical
+270,What's your goal with work?,question,career
+271,How important is discovery to you?,question,general
+272,What's your favorite creativity?,question,preferences
+273,How important is challenges to you?,question,general
+274,How important is family to you?,question,relationships
+275,What was your favorite birthday party?,question,preferences
+276,Do you think the world is getting better or worse?,question,opinions
+277,What scared you the most as a child?,question,general
+278,What's your take on running?,question,general
+279,How do you approach hobbies?,question,general
+280,Tell me about peace,statement,general_statement
+281,What's rewarding about festivals?,question,general
+282,How has books influenced you?,question,entertainment
+283,How do you stay motivated with creativity?,question,food
+284,How important is movies to you?,question,entertainment
+285,What's your ideal Saturday?,question,daily_life
+286,What's your experience with risk?,question,general
+287,What role does family play in your life?,question,relationships
+288,How do you feel about meditation?,question,opinions
+289,What advice would you give about sports?,question,hypothetical
+290,How do you feel about libraries?,question,opinions
+291,How would you describe swimming?,question,hypothetical
+292,How has dreams influenced you?,question,general
+293,What role does kindness play in your life?,question,general
+294,What's interesting about mountains?,question,general
+295,What's your take on communities?,question,general
+296,What type of music do you listen to when you're sad?,question,entertainment
+297,How do you stay motivated with learning?,question,general
+298,How important is yoga to you?,question,general
+299,Do you believe in soulmates?,question,opinions
+300,How do you share learning with others?,question,general
+301,What's challenging about games?,question,general
+302,What advice would you give about concerts?,question,hypothetical
+303,What's rewarding about traditions?,question,general
+304,What sports do you like to watch or play?,question,preferences
+305,What's your experience with yoga?,question,general
+306,How do you feel about independence?,question,opinions
+307,What have you been up to lately?,question,general
+308,I'm planning to organize my finances better,statement,future_plans
+309,How do you approach routine?,question,daily_life
+310,Tell me about swimming,statement,general_statement
+311,Tell me about concerts,statement,general_statement
+312,What's challenging about mountains?,question,general
+313,What advice would you give about yoga?,question,hypothetical
+314,What's challenging about libraries?,question,general
+315,What's your relationship with music?,question,entertainment
+316,What's surprising about friendship?,question,relationships
+317,What role does friendship play in your life?,question,relationships
+318,How do you stay motivated with drawing?,question,general
+319,What role does music play in your life?,question,entertainment
+320,What's your experience with running?,question,general
+321,I absolutely love trying new foods,statement,personal_preferences
+322,What's interesting about success?,question,general
+323,How do you approach memories?,question,general
+324,How do you approach books?,question,entertainment
+325,What's rewarding about puzzles?,question,general
+326,What's your biggest inspiration?,question,general
+327,How do you approach drawing?,question,general
+328,How do you share honesty with others?,question,general
+329,What's your goal with sports?,question,general
+330,What's surprising about dreams?,question,general
+331,What's your goal with parks?,question,general
+332,How would you describe singing?,question,hypothetical
+333,What's challenging about growth?,question,general
+334,What's something new you learned recently?,question,general
+335,How do you share dancing with others?,question,general
+336,How important is meditation to you?,question,general
+337,How would you describe discovery?,question,hypothetical
+338,What's your goal with solitude?,question,general
+339,What's your goal with art?,question,general
+340,What's interesting about happiness?,question,general
+341,What's your goal with memories?,question,general
+342,What role does happiness play in your life?,question,general
+343,What advice would you give about cards?,question,hypothetical
+344,How do you stay motivated with solitude?,question,general
+345,What's interesting about risk?,question,general
+346,How important is friendship to you?,question,relationships
+347,What do you think about sports?,question,opinions
+348,What's your take on crafts?,question,general
+349,What's your relationship with discovery?,question,relationships
+350,How important is success to you?,question,general
+351,What role does photography play in your life?,question,general
+352,How important is courage to you?,question,general
+353,What's interesting about communities?,question,general
+354,How do you share traditions with others?,question,general
+355,How would you describe spontaneity?,question,hypothetical
+356,What's rewarding about success?,question,general
+357,What role does innovation play in your life?,question,general
+358,How would you describe balance?,question,hypothetical
+359,Tell me about festivals,statement,general_statement
+360,What's your experience with sports?,question,general
+361,How do you feel about challenges?,question,opinions
+362,What's your favorite challenges?,question,preferences
+363,What's interesting about gardening?,question,general
+364,What makes you laugh the most?,question,general
+365,What's your favorite mountains?,question,preferences
+366,What's surprising about festivals?,question,general
+367,What's your relationship with creativity?,question,food
+368,What advice would you give about drawing?,question,hypothetical
+369,What role does puzzles play in your life?,question,general
+370,What's challenging about creativity?,question,food
+371,Tell me about crafts,statement,general_statement
+372,What's your relationship with festivals?,question,relationships
+373,What advice would you give about honesty?,question,hypothetical
+374,How would you describe communities?,question,hypothetical
+375,My commute was surprisingly smooth,statement,general_statement
+376,What's interesting about cooking?,question,food
+377,What advice would you give about creativity?,question,hypothetical
+378,What's challenging about writing?,question,general
+379,How do you stay motivated with comfort?,question,general
+380,Do you prefer books or movies?,question,preferences
+381,How important is work to you?,question,career
+382,How do you share adventure with others?,question,general
+383,How do you feel about singing?,question,opinions
+384,What's your take on patience?,question,general
+385,How important is wisdom to you?,question,general
+386,I'm interested in psychology,statement,personal_preferences
+387,I've been wondering about other cultures,statement,thoughts_reflection
+388,How would you describe dreams?,question,hypothetical
+389,I want to be more spontaneous,statement,future_plans
+390,Do you have any dietary restrictions?,question,general
+391,What's your experience with growth?,question,general
+392,Tell me about running,statement,general_statement
+393,How important is mountains to you?,question,general
+394,What do you think about work?,question,opinions
+395,I'm feeling really good today,statement,emotional_expression
+396,What's surprising about learning?,question,general
+397,What's challenging about art?,question,general
+398,How do you approach patience?,question,general
+399,How do you stay motivated with puzzles?,question,general
+400,What's rewarding about movies?,question,entertainment
+401,What's surprising about happiness?,question,general
+402,How would you describe running?,question,hypothetical
+403,What's your favorite games?,question,preferences
+404,What's surprising about yoga?,question,general
+405,How has companionship influenced you?,question,general
+406,What's interesting about wisdom?,question,general
+407,How has photography influenced you?,question,general
+408,What's your goal with discovery?,question,general
+409,I've been thinking about creativity,statement,thoughts_reflection
+410,What's your goal with photography?,question,general
+411,How important is running to you?,question,general
+412,I'm not a fan of crowded places,statement,general_statement
+413,What's your relationship with cooking?,question,food
+414,What advice would you give about chess?,question,hypothetical
+415,What's interesting about goals?,question,general
+416,What role does communities play in your life?,question,general
+417,What advice would you give about growth?,question,hypothetical
+418,What's your take on movies?,question,entertainment
+419,How would you describe travel?,question,hypothetical
+420,How do you feel about kindness?,question,opinions
+421,What motivates you?,question,general
+422,What's your relationship with concerts?,question,relationships
+423,What's interesting about honesty?,question,general
+424,I'm learning a new skill,statement,general_statement
+425,How would you describe nature?,question,hypothetical
+426,Do you drink alcohol?,question,general
+427,How do you approach photography?,question,general
+428,Do you prefer road trips or flying?,question,preferences
+429,I want to learn a musical instrument,statement,future_plans
+430,What do you think about learning?,question,opinions
+431,What advice would you give about volunteering?,question,hypothetical
+432,How do you approach travel?,question,travel
+433,What's your favorite running?,question,preferences
+434,What's your favorite traditions?,question,preferences
+435,What's challenging about loyalty?,question,general
+436,How has art influenced you?,question,general
+437,How important is independence to you?,question,general
+438,How do you feel about memories?,question,opinions
+439,I'm having a rough day,statement,general_statement
+440,What advice would you give about reading?,question,hypothetical
+441,How do you approach companionship?,question,general
+442,How would you describe podcasts?,question,hypothetical
+443,What advice would you give about photography?,question,hypothetical
+444,What's your relationship with balance?,question,relationships
+445,What's rewarding about swimming?,question,general
+446,How important is photography to you?,question,general
+447,What's interesting about solitude?,question,general
+448,What advice would you give about family?,question,hypothetical
+449,What's your goal with swimming?,question,general
+450,How do you share sports with others?,question,general
+451,What do you think about solitude?,question,opinions
+452,What's your opinion on self-help books?,question,opinions
+453,Do you like to paint or draw?,question,preferences
+454,What advice would you give about music?,question,hypothetical
+455,What's rewarding about games?,question,general
+456,What's your goal with festivals?,question,general
+457,I'm considering going back to school,statement,thoughts_reflection
+458,How do you stay motivated with hiking?,question,general
+459,What's your relationship with challenges?,question,relationships
+460,What's surprising about meditation?,question,general
+461,How has pets influenced you?,question,general
+462,How would you describe music?,question,hypothetical
+463,How do you feel about exercise?,question,opinions
+464,"If you were stranded on a desert island, what three things would you want?",question,hypothetical
+465,How do you approach balance?,question,general
+466,Do you prefer to plan your day or go with the flow?,question,preferences
+467,What's your favorite art?,question,preferences
+468,"If you could live anywhere in the world, where would you choose?",question,hypothetical
+469,What's your ideal creative space?,question,food
+470,I love the peace of nature,statement,personal_preferences
+471,How do you share volunteering with others?,question,general
+472,How do you feel about nature?,question,opinions
+473,What's your take on cards?,question,general
+474,What's your experience with cities?,question,general
+475,How important is music to you?,question,entertainment
+476,How do you feel about family?,question,opinions
+477,What's something positive you see happening in the world?,question,general
+478,How do you feel about running?,question,opinions
+479,How do you approach parks?,question,general
+480,How do you feel about museums?,question,opinions
+481,What's your take on growth?,question,general
+482,I'm planning to reconnect with old friends,statement,future_plans
+483,Tell me about beaches,statement,general_statement
+484,Did you enjoy school trips?,question,travel
+485,How do you share independence with others?,question,general
+486,What role does meditation play in your life?,question,general
+487,What's your favorite innovation?,question,preferences
+488,What's your opinion on small talk?,question,opinions
+489,What advice would you give about traditions?,question,hypothetical
+490,What role does adventure play in your life?,question,general
+491,What's your take on work?,question,career
+492,How important is cards to you?,question,general
+493,What advice would you give about patience?,question,hypothetical
+494,What's your favorite cities?,question,preferences
+495,How do you stay motivated with crafts?,question,general
+496,What's your experience with traditions?,question,general
+497,What's your favorite cooking?,question,preferences
+498,What advice would you give about puzzles?,question,hypothetical
+499,Tell me about independence,statement,general_statement
+500,What do you think about loyalty?,question,opinions
+501,How do you approach wonder?,question,general
+502,What advice would you give about risk?,question,hypothetical
+503,How would you describe technology?,question,hypothetical
+504,Do you enjoy hiking?,question,general
+505,What advice would you give about writing?,question,hypothetical
+506,What's your take on technology?,question,general
+507,How do you feel about friendship?,question,opinions
+508,What do you think about mountains?,question,opinions
+509,What's your goal with chess?,question,general
+510,What's your relationship with communities?,question,relationships
+511,How do you stay motivated with games?,question,general
+512,What's your relationship with beaches?,question,relationships
+513,What's rewarding about curiosity?,question,general
+514,What's your goal with patience?,question,general
+515,What do you think about adventure?,question,opinions
+516,How do you share museums with others?,question,general
+517,I'm considering moving to a new city,statement,thoughts_reflection
+518,What do you think about pets?,question,opinions
+519,Tell me about loyalty,statement,general_statement
+520,What's challenging about festivals?,question,general
+521,How has challenges influenced you?,question,general
+522,What's your relationship with hobbies?,question,relationships
+523,What's your favorite way to spend a weekend?,question,preferences
+524,What role does dancing play in your life?,question,general
+525,How important is memories to you?,question,general
+526,How important is comfort to you?,question,general
+527,Do you believe in luck?,question,opinions
+528,What's interesting about companionship?,question,general
+529,How do you approach honesty?,question,general
+530,What's your favorite success?,question,preferences
+531,What's your favorite memory from this year?,question,preferences
+532,How do you prefer to meet new people?,question,preferences
+533,How important is festivals to you?,question,general
+534,What advice would you give about learning?,question,hypothetical
+535,How do you feel about cooking?,question,opinions
+536,What's your typical evening routine?,question,daily_life
+537,What did you want to be when you grew up?,question,general
+538,Do you enjoy cooking?,question,food
+539,How do you stay motivated with innovation?,question,general
+540,Do you have a favorite TV show?,question,preferences
+541,What advice would you give about happiness?,question,hypothetical
+542,I cleaned out my closet today,statement,daily_experience
+543,What's your relationship with wonder?,question,relationships
+544,What advice would you give about beaches?,question,hypothetical
+545,How do you share success with others?,question,general
+546,Tell me about kindness,statement,general_statement
+547,How do you feel about gardening?,question,opinions
+548,What's your take on independence?,question,general
+549,What's the most adventurous thing you've done while traveling?,question,travel
+550,What's challenging about independence?,question,general
+551,What's your favorite comfort food?,question,preferences
+552,How do you stay motivated with change?,question,general
+553,What's your favorite swimming?,question,preferences
+554,How has traditions influenced you?,question,general
+555,How do you stay motivated with yoga?,question,general
+556,Tell me about cycling,statement,general_statement
+557,What do you think about memories?,question,opinions
+558,What role does pets play in your life?,question,general
+559,Tell me about music,statement,general_statement
+560,Do you think technology makes life better or worse?,question,opinions
+561,What's surprising about success?,question,general
+562,I tried something outside my comfort zone,statement,experiences
+563,What's your favorite snack?,question,preferences
+564,I prefer collaborative work environments,statement,personal_preferences
+565,Do you think money can buy happiness?,question,opinions
+566,What's challenging about wonder?,question,general
+567,What's your favorite way to relax?,question,preferences
+568,What role does swimming play in your life?,question,general
+569,What role does books play in your life?,question,entertainment
+570,How important is nature to you?,question,general
+571,What's rewarding about parks?,question,general
+572,Tell me about dancing,statement,general_statement
+573,What role does cities play in your life?,question,general
+574,Tell me about cities,statement,general_statement
+575,What's your favorite dessert?,question,preferences
+576,What's challenging about reading?,question,general
+577,I had an unexpected encounter,statement,experiences
+578,How do you stay motivated with travel?,question,travel
+579,How would you describe kindness?,question,hypothetical
+580,What role does curiosity play in your life?,question,general
+581,How important is growth to you?,question,general
+582,What's challenging about puzzles?,question,general
+583,What's challenging about discovery?,question,general
+584,I learned something surprising,statement,experiences
+585,What's rewarding about loyalty?,question,general
+586,What's your experience with photography?,question,general
+587,Tell me about libraries,statement,general_statement
+588,How do you stay motivated with happiness?,question,general
+589,What's your experience with dancing?,question,general
+590,How do you feel about travel?,question,opinions
+591,I've been gardening lately,statement,daily_experience
+592,How do you stay motivated with communities?,question,general
+593,What role does wisdom play in your life?,question,general
+594,How has concerts influenced you?,question,general
+595,What do you think about parks?,question,opinions
+596,How do you share peace with others?,question,general
+597,How has technology influenced you?,question,general
+598,What's surprising about technology?,question,general
+599,How has change influenced you?,question,general
+600,How would you describe cooking?,question,hypothetical
+601,What do you think about success?,question,opinions
+602,What's your favorite dancing?,question,preferences
+603,I'm planning a trip,statement,future_plans
+604,What's your goal with goals?,question,general
+605,What role does challenges play in your life?,question,general
+606,How would you describe yoga?,question,hypothetical
+607,What's your relationship with independence?,question,relationships
+608,What's your favorite ice cream flavor?,question,preferences
+609,What's your experience with nature?,question,general
+610,What's your goal with podcasts?,question,general
+611,What's something you've always wanted to try?,question,general
+612,How do you approach puzzles?,question,general
+613,What's challenging about curiosity?,question,general
+614,What's your take on exercise?,question,general
+615,How do you approach friendship?,question,relationships
+616,I had a really productive day at work,statement,experiences
+617,How do you share patience with others?,question,general
+618,What's challenging about peace?,question,general
+619,What's your take on travel?,question,travel
+620,What do you think about family?,question,opinions
+621,Tell me about goals,statement,general_statement
+622,What role does sports play in your life?,question,general
+623,What's your favorite music?,question,preferences
+624,How has cycling influenced you?,question,general
+625,I had a great conversation with a friend,statement,experiences
+626,How do you stay motivated with work?,question,career
+627,I'm thinking about personal growth,statement,thoughts_reflection
+628,What do you think about running?,question,opinions
+629,What's interesting about movies?,question,entertainment
+630,How do you stay motivated with peace?,question,general
+631,I had a job interview today,statement,daily_experience
+632,How has games influenced you?,question,general
+633,What role does discovery play in your life?,question,general
+634,What's surprising about peace?,question,general
+635,What's the most beautiful place you've ever visited?,question,travel
+636,What's your goal with balance?,question,general
+637,What do you think about books?,question,opinions
+638,What's your relationship with pets?,question,relationships
+639,What's interesting about exercise?,question,general
+640,What role does companionship play in your life?,question,general
+641,What do you think about challenges?,question,opinions
+642,What's your favorite quote?,question,preferences
+643,How do you approach risk?,question,general
+644,I'm so happy right now,statement,emotional_expression
+645,How do you approach volunteering?,question,general
+646,How do you show appreciation to others?,question,entertainment
+647,How would you describe creativity?,question,hypothetical
+648,What's rewarding about chess?,question,general
+649,What's your take on solitude?,question,general
+650,What advice would you give about success?,question,hypothetical
+651,What's your relationship with technology?,question,relationships
+652,Do you still listen to the radio?,question,general
+653,How do you feel about festivals?,question,opinions
+654,I've been reflecting on my childhood,statement,thoughts_reflection
+655,What's your goal with movies?,question,entertainment
+656,What's challenging about dancing?,question,general
+657,What's your take on risk?,question,general
+658,What's your relationship with growth?,question,relationships
+659,What's your experience with music?,question,entertainment
+660,How has patience influenced you?,question,general
+661,What's interesting about technology?,question,general
+662,What's your relationship with museums?,question,relationships
+663,What's your take on sports?,question,general
+664,I've been reflecting on what I value most,statement,thoughts_reflection
+665,I'm really proud of myself today,statement,emotional_expression
+666,What's interesting about music?,question,entertainment
+667,What role does singing play in your life?,question,general
+668,I tried cooking something new,statement,experiences
+669,What's surprising about puzzles?,question,general
+670,Do you prefer comedies or dramas?,question,preferences
+671,I'm fascinated by different cultures,statement,personal_preferences
+672,What's surprising about concerts?,question,general
+673,What's surprising about writing?,question,general
+674,What's interesting about cycling?,question,general
+675,How do you approach libraries?,question,general
+676,Do you enjoy dancing?,question,general
+677,Do you enjoy trying new restaurants?,question,food
+678,I want to practice mindfulness more,statement,future_plans
+679,What's surprising about drawing?,question,general
+680,What's your goal with family?,question,relationships
+681,How do you feel about balance?,question,opinions
+682,What's your favorite hiking?,question,preferences
+683,I've been pondering life's big questions,statement,thoughts_reflection
+684,How do you share crafts with others?,question,general
+685,What's your favorite color?,question,preferences
+686,What's your favorite type of music?,question,preferences
+687,What's your favorite fruit?,question,preferences
+688,What's your experience with peace?,question,general
+689,How do you share loyalty with others?,question,general
+690,What's your biggest goal?,question,general
+691,What's your favorite courage?,question,preferences
+692,What advice would you give about discovery?,question,hypothetical
+693,What do you think about curiosity?,question,opinions
+694,What's surprising about curiosity?,question,general
+695,I want to be more environmentally conscious,statement,future_plans
+696,How do you feel about growth?,question,opinions
+697,What's your take on cities?,question,general
+698,What advice would you give about technology?,question,hypothetical
+699,What's your goal with yoga?,question,general
+700,What's your take on photography?,question,general
+701,I attended a workshop that was really helpful,statement,experiences
+702,I'm considering volunteering more,statement,thoughts_reflection
+703,How would you describe solitude?,question,hypothetical
+704,Tell me about patience,statement,general_statement
+705,How has growth influenced you?,question,general
+706,What role does traditions play in your life?,question,general
+707,How would you describe concerts?,question,hypothetical
+708,What do you think about singing?,question,opinions
+709,What's your take on routine?,question,daily_life
+710,Do you like puzzles?,question,preferences
+711,How do you approach happiness?,question,general
+712,What's rewarding about books?,question,entertainment
+713,How has spontaneity influenced you?,question,general
+714,What's your relationship with travel?,question,travel
+715,How important is exercise to you?,question,general
+716,Have you ever been on a cruise?,question,general
+717,I'm feeling quite optimistic,statement,emotional_expression
+718,How do you feel about happiness?,question,opinions
+719,What's surprising about innovation?,question,general
+720,What's interesting about hobbies?,question,general
+721,I'm not feeling great today,statement,emotional_expression
+722,How do you approach family?,question,relationships
+723,I'm fascinated by history,statement,personal_preferences
+724,What's your go-to breakfast?,question,general
+725,"If you could be any animal, what would you choose?",question,hypothetical
+726,How do you handle disagreements?,question,general
+727,How do you feel about success?,question,opinions
+728,What's your relationship with cards?,question,relationships
+729,How do you share growth with others?,question,general
+730,How do you make important decisions?,question,general
+731,Tell me about hiking,statement,general_statement
+732,What's your goal with games?,question,general
+733,What's your experience with dreams?,question,general
+734,Tell me about hobbies,statement,general_statement
+735,How do you stay motivated with courage?,question,general
+736,What do you think about travel?,question,opinions
+737,How do you approach podcasts?,question,general
+738,What's your favorite board game?,question,preferences
+739,How has museums influenced you?,question,general
+740,What's challenging about change?,question,general
+741,What's your favorite way to help others?,question,preferences
+742,What's your dream job?,question,career
+743,Tell me something interesting about your day,statement,experiences
+744,What advice would you give about friendship?,question,hypothetical
+745,What's your experience with cards?,question,general
+746,How would you describe writing?,question,hypothetical
+747,What role does cycling play in your life?,question,general
+748,How would you describe hobbies?,question,hypothetical
+749,What's your favorite way to be creative?,question,preferences
+750,What's surprising about risk?,question,general
+751,How do you feel about honesty?,question,opinions
+752,What's surprising about work?,question,career
+753,What's surprising about dancing?,question,general
+754,What do you think about comfort?,question,opinions
+755,What's your favorite meditation?,question,preferences
+756,How do you share gardening with others?,question,general
+757,How do you share cycling with others?,question,general
+758,"If you could live in any historical period, when would you choose?",question,hypothetical
+759,How important is patience to you?,question,general
+760,What's challenging about routine?,question,daily_life
+761,What's your goal with curiosity?,question,general
+762,How do you feel about drawing?,question,opinions
+763,Do you prefer the beach or the mountains?,question,preferences
+764,What advice would you give about crafts?,question,hypothetical
+765,Have you ever been backpacking?,question,general
+766,How important is libraries to you?,question,general
+767,I've been evaluating my relationships,statement,general_statement
+768,What's your goal with creativity?,question,food
+769,What's your favorite loyalty?,question,preferences
+770,What's surprising about reading?,question,general
+771,What's your favorite time of day?,question,preferences
+772,I'm contemplating minimalism,statement,thoughts_reflection
+773,What's your goal with meditation?,question,general
+774,How would you describe companionship?,question,hypothetical
+775,What's challenging about courage?,question,general
+776,How do you feel about curiosity?,question,opinions
+777,What advice would you give about kindness?,question,hypothetical
+778,How do you feel about wisdom?,question,opinions
+779,I love the energy of cities,statement,personal_preferences
+780,What advice would you give about podcasts?,question,hypothetical
+781,What's interesting about singing?,question,general
+782,How do you share meditation with others?,question,general
+783,Tell me about change,statement,general_statement
+784,How important is curiosity to you?,question,general
+785,How do you stay motivated with goals?,question,general
+786,What's your experience with family?,question,relationships
+787,How would you describe goals?,question,hypothetical
+788,What advice would you give about libraries?,question,hypothetical
+789,What's your favorite podcast topic?,question,preferences
+790,What's your experience with memories?,question,general
+791,How would you describe friendship?,question,hypothetical
+792,What's surprising about traditions?,question,general
+793,What was your favorite playground activity?,question,preferences
+794,What's your take on wonder?,question,general
+795,I'm planning to learn cooking skills,statement,future_plans
+796,What's rewarding about communities?,question,general
+797,What's surprising about swimming?,question,general
+798,I'm feeling quite nostalgic lately,statement,emotional_expression
+799,I'm organizing my living space,statement,general_statement
+800,How do you feel about patience?,question,opinions
+801,Tell me about yoga,statement,general_statement
+802,How do you stay motivated?,question,general
+803,How do you stay motivated with gardening?,question,general
+804,Tell me about balance,statement,general_statement
+805,How has mountains influenced you?,question,general
+806,What's your experience with routine?,question,daily_life
+807,What do you think about kindness?,question,opinions
+808,What's rewarding about art?,question,general
+809,What's your experience with kindness?,question,general
+810,How do you stay motivated with art?,question,general
+811,How do you feel about parks?,question,opinions
+812,What role does comfort play in your life?,question,general
+813,What's your goal with museums?,question,general
+814,What's your favorite learning?,question,preferences
+815,What's your relationship with mountains?,question,relationships
+816,What's surprising about balance?,question,general
+817,How do you approach change?,question,general
+818,What's your favorite parks?,question,preferences
+819,What do you think about libraries?,question,opinions
+820,Tell me about discovery,statement,general_statement
+821,How do you approach loyalty?,question,general
+822,What's surprising about spontaneity?,question,general
+823,What's your goal with running?,question,general
+824,What's interesting about learning?,question,general
+825,What's your favorite type of bread?,question,preferences
+826,Do you have a favorite restaurant?,question,preferences
+827,What's rewarding about volunteering?,question,general
+828,What's your take on discovery?,question,general
+829,What's your favorite memories?,question,preferences
+830,Tell me about books,statement,general_statement
+831,What's your biggest fear?,question,general
+832,How has solitude influenced you?,question,general
+833,What's surprising about music?,question,entertainment
+834,What's interesting about art?,question,general
+835,How has comfort influenced you?,question,general
+836,How do you approach curiosity?,question,general
+837,What do you think about honesty?,question,opinions
+838,What's your goal with gardening?,question,general
+839,Do you prefer coffee or tea?,question,preferences
+840,How important is risk to you?,question,general
+841,What's your goal with spontaneity?,question,general
+842,What's your favorite peace?,question,preferences
+843,What role does growth play in your life?,question,general
+844,I'm questioning some of my assumptions,statement,general_statement
+845,What's surprising about libraries?,question,general
+846,What advice would you give about pets?,question,hypothetical
+847,I'm thinking about my future plans,statement,thoughts_reflection
+848,What role does games play in your life?,question,general
+849,What's your experience with learning?,question,general
+850,How do you share comfort with others?,question,general
+851,What's your take on music?,question,entertainment
+852,What role does museums play in your life?,question,general
+853,What's your experience with friendship?,question,relationships
+854,Tell me about exercise,statement,general_statement
+855,How do you share work with others?,question,career
+856,I really enjoy problem-solving,statement,personal_preferences
+857,How do you share balance with others?,question,general
+858,Do you like seafood?,question,preferences
+859,What's surprising about volunteering?,question,general
+860,What's challenging about drawing?,question,general
+861,Tell me about writing,statement,general_statement
+862,What was your favorite family tradition?,question,preferences
+863,What's your experience with beaches?,question,general
+864,What's your relationship with adventure?,question,relationships
+865,What's your take on dreams?,question,general
+866,What's rewarding about companionship?,question,general
+867,What's the best advice you've ever received?,question,general
+868,What's your experience with writing?,question,general
+869,What advice would you give about movies?,question,hypothetical
+870,What's challenging about chess?,question,general
+871,Tell me about family,statement,general_statement
+872,I discovered a new restaurant yesterday,statement,daily_experience
+873,What's your experience with communities?,question,general
+874,I'm really content right now,statement,general_statement
+875,What's challenging about spontaneity?,question,general
+876,How important is chess to you?,question,general
+877,I'm feeling a bit lonely,statement,emotional_expression
+878,What's interesting about patience?,question,general
+879,What's challenging about movies?,question,entertainment
+880,How do you stay motivated with writing?,question,general
+881,What do you think about cards?,question,opinions
+882,What's your favorite thing about yourself?,question,preferences
+883,What do you think about growth?,question,opinions
+884,What's your take on loyalty?,question,general
+885,What's your favorite animated movie?,question,preferences
+886,What's your relationship with podcasts?,question,relationships
+887,What's your experience with festivals?,question,general
+888,What's rewarding about goals?,question,general
+889,How do you approach independence?,question,general
+890,What's your goal with volunteering?,question,general
+891,What role does wonder play in your life?,question,general
+892,I've been wondering about the meaning of success,statement,thoughts_reflection
+893,How important is travel to you?,question,travel
+894,What's interesting about cards?,question,general
+895,What's your ideal work environment?,question,career
+896,What's your relationship with movies?,question,entertainment
+897,What's your experience with pets?,question,general
+898,What's challenging about cycling?,question,general
+899,What's challenging about sports?,question,general
+900,What's your take on hiking?,question,general
+901,What's your philosophy on work-life balance?,question,career
+902,How do you stay motivated with family?,question,relationships
+903,What's your favorite season activity?,question,preferences
+904,What's your experience with puzzles?,question,general
+905,What's your favorite exercise?,question,preferences
+906,I woke up early today,statement,daily_experience
+907,What's your favorite routine?,question,preferences
+908,How do you feel about courage?,question,opinions
+909,What's your biggest time waster?,question,general
+910,I'm considering starting a side project,statement,thoughts_reflection
+911,What's rewarding about innovation?,question,general
+912,What do you think about traditions?,question,opinions
+913,What's your experience with technology?,question,general
+914,How do you share dreams with others?,question,general
+915,What do you think about exercise?,question,opinions
+916,What advice would you give about art?,question,hypothetical
+917,How important is companionship to you?,question,general
+918,What role does memories play in your life?,question,general
+919,How do you feel about communities?,question,opinions
+920,What's interesting about family?,question,relationships
+921,How do you share exercise with others?,question,general
+922,Are you more creative or analytical?,question,food
+923,How do you approach exercise?,question,general
+924,What do you think about artificial intelligence?,question,opinions
+925,What's challenging about companionship?,question,general
+926,How do you share games with others?,question,general
+927,What's surprising about kindness?,question,general
+928,What's surprising about growth?,question,general
+929,What's interesting about running?,question,general
+930,What's your relationship with curiosity?,question,relationships
+931,What advice would you give about exercise?,question,hypothetical
+932,How important is hiking to you?,question,general
+933,I'm so relieved that's over,statement,emotional_expression
+934,What's interesting about wonder?,question,general
+935,What's your take on chess?,question,general
+936,What's been keeping you busy?,question,general
+937,How has learning influenced you?,question,general
+938,What advice would you give about running?,question,hypothetical
+939,How do you approach kindness?,question,general
+940,What's rewarding about memories?,question,general
+941,How important is technology to you?,question,general
+942,I'm feeling really creative today,statement,emotional_expression
+943,Tell me about memories,statement,general_statement
+944,What's surprising about crafts?,question,general
+945,How do you stay motivated with patience?,question,general
+946,What's challenging about photography?,question,general
+947,How do you approach wisdom?,question,general
+948,"If you could have any job in the world, what would it be?",question,hypothetical
+949,Tell me about volunteering,statement,general_statement
+950,What's your experience with hobbies?,question,general
+951,What's your goal with hobbies?,question,general
+952,What's your goal with cooking?,question,food
+953,What's challenging about museums?,question,general
+954,I'm planning to declutter my life,statement,future_plans
+955,How do you stay motivated with mountains?,question,general
+956,What's something you're proud of?,question,general
+957,What's your approach to handling change?,question,general
+958,Do you like live theater?,question,preferences
+959,What's your goal with cycling?,question,general
+960,What's interesting about hiking?,question,general
+961,What's surprising about patience?,question,general
+962,What's your favorite wonder?,question,preferences
+963,How would you describe work?,question,hypothetical
+964,How would you describe movies?,question,hypothetical
+965,What's your relationship with exercise?,question,relationships
+966,How do you feel about discovery?,question,opinions
+967,What advice would you give about hiking?,question,hypothetical
+968,How has cities influenced you?,question,general
+969,What's your favorite goals?,question,preferences
+970,I made a difficult decision,statement,general_statement
+971,I'm quite nervous about tomorrow,statement,emotional_expression
+972,How do you approach innovation?,question,general
+973,What's your goal with innovation?,question,general
+974,What advice would you give about wonder?,question,hypothetical
+975,Do you play any musical instruments?,question,entertainment
+976,How do you feel about dreams?,question,opinions
+977,What's rewarding about concerts?,question,general
+978,"If you could eliminate one problem from the world, what would it be?",question,hypothetical
+979,What's interesting about puzzles?,question,general
+980,I really love rainy days,statement,personal_preferences
+981,What role does parks play in your life?,question,general
+982,What's challenging about honesty?,question,general
+983,How has exercise influenced you?,question,general
+984,What's challenging about risk?,question,general
+985,What's rewarding about solitude?,question,general
+986,What's your favorite vegetable?,question,preferences
+987,What role does hobbies play in your life?,question,general
+988,How would you describe art?,question,hypothetical
+989,How do you share reading with others?,question,general
+990,I want to challenge myself more,statement,future_plans
+991,What's interesting about balance?,question,general
+992,"If you could time travel, where would you go?",question,hypothetical
+993,What's your favorite cycling?,question,preferences
+994,How do you approach growth?,question,general
+995,What's surprising about independence?,question,general
+996,What's rewarding about reading?,question,general
+997,What's challenging about books?,question,entertainment
+998,What's surprising about running?,question,general
+999,I'm feeling really grateful today,statement,emotional_expression
+1000,How important is peace to you?,question,general
+1001,"If you could change one thing about the world, what would it be?",question,hypothetical
+1002,What's challenging about nature?,question,general
+1003,What's your goal with exercise?,question,general
+1004,What's your favorite way to treat yourself?,question,preferences
+1005,Tell me about work,statement,general_statement
+1006,What's your favorite type of accommodation when traveling?,question,preferences
+1007,How important is routine to you?,question,daily_life
+1008,What's rewarding about singing?,question,general
+1009,What's the best concert you've ever been to?,question,general
+1010,What's the kindest thing someone has done for you?,question,general
+1011,What's your favorite way to celebrate?,question,preferences
+1012,How has communities influenced you?,question,general
+1013,I hope to develop stronger relationships,statement,future_plans
+1014,What's interesting about spontaneity?,question,general
+1015,How do you feel about cards?,question,opinions
+1016,I had the best coffee today,statement,daily_experience
+1017,What's your relationship with meditation?,question,relationships
+1018,What advice would you give about mountains?,question,hypothetical
+1019,What's your relationship with memories?,question,relationships
+1020,What's surprising about mountains?,question,general
+1021,What's your experience with gardening?,question,general
+1022,How do you approach dreams?,question,general
+1023,What do you think about independence?,question,opinions
+1024,What's interesting about festivals?,question,general
+1025,Tell me about comfort,statement,general_statement
+1026,What's interesting about adventure?,question,general
+1027,How do you share travel with others?,question,travel
+1028,Are you into video games?,question,general
+1029,What's your goal with cards?,question,general
+1030,I'm hoping to develop my creativity,statement,future_plans
+1031,What's your take on drawing?,question,general
+1032,What's your favorite work?,question,preferences
+1033,What's surprising about cards?,question,general
+1034,What's your relationship with kindness?,question,relationships
+1035,What's rewarding about wonder?,question,general
+1036,How do you stay motivated with running?,question,general
+1037,What's your take on gardening?,question,general
+1038,How would you describe books?,question,hypothetical
+1039,What's your take on comfort?,question,general
+1040,Can you cook?,question,food
+1041,What's your experience with chess?,question,general
+1042,How do you stay motivated with beaches?,question,general
+1043,What's rewarding about beaches?,question,general
+1044,I'm feeling really inspired,statement,emotional_expression
+1045,How do you approach writing?,question,general
+1046,What's your goal with challenges?,question,general
+1047,What's your favorite yoga?,question,preferences
+1048,What's your favorite thing about your hometown?,question,preferences
+1049,What's your favorite change?,question,preferences
+1050,What advice would you give about work?,question,hypothetical
+1051,Do you prefer city breaks or nature getaways?,question,preferences
+1052,What's your approach to work-life balance?,question,career
+1053,How do you approach games?,question,general
+1054,What's interesting about traditions?,question,general
+1055,What's your favorite patience?,question,preferences
+1056,What's your biggest weakness?,question,general
+1057,What's interesting about kindness?,question,general
+1058,Did you have an imaginary friend?,question,relationships
+1059,What's interesting about loyalty?,question,general
+1060,What's surprising about discovery?,question,general
+1061,What role does mountains play in your life?,question,general
+1062,What's interesting about volunteering?,question,general
+1063,What's rewarding about libraries?,question,general
+1064,What do you think about cities?,question,opinions
+1065,What's your relationship with honesty?,question,relationships
+1066,How would you describe dancing?,question,hypothetical
+1067,What's your goal with friendship?,question,relationships
+1068,I'm having mixed feelings about this,statement,emotional_expression
+1069,How has cooking influenced you?,question,food
+1070,What's your ideal social gathering size?,question,relationships
+1071,How important is gardening to you?,question,general
+1072,How do you stay motivated with cities?,question,general
+1073,What's your favorite time to be creative?,question,preferences
+1074,Do you believe in ghosts?,question,opinions
+1075,I hope to make a positive impact,statement,future_plans
+1076,What's the best trip you've ever taken?,question,travel
+1077,What's your ideal evening?,question,daily_life
+1078,I slept really well last night,statement,general_statement
+1079,What do you think about goals?,question,opinions
+1080,What do you think about minimalism?,question,opinions
+1081,What's your relationship with crafts?,question,relationships
+1082,What's your take on honesty?,question,general
+1083,How do you stay motivated with exercise?,question,general
+1084,What do you think about podcasts?,question,opinions
+1085,How do you approach adventure?,question,general
+1086,Tell me about sports,statement,general_statement
+1087,How has discovery influenced you?,question,general
+1088,How has work influenced you?,question,career
+1089,How would you describe chess?,question,hypothetical
+1090,Tell me about routine,statement,general_statement
+1091,What do you think about technology?,question,opinions
+1092,What's your favorite books?,question,preferences
+1093,How do you stay motivated with cooking?,question,food
+1094,What's interesting about routine?,question,daily_life
+1095,How would you describe libraries?,question,hypothetical
+1096,What's your experience with balance?,question,general
+1097,What role does patience play in your life?,question,general
+1098,What's your relationship with singing?,question,relationships
+1099,What's your favorite childhood book?,question,preferences
+1100,How has creativity influenced you?,question,food
+1101,What's your goal with concerts?,question,general
+1102,What's challenging about swimming?,question,general
+1103,What's the last book you read?,question,entertainment
+1104,Tell me about happiness,statement,general_statement
+1105,What's your take on swimming?,question,general
+1106,What's your goal with cities?,question,general
+1107,What role does dreams play in your life?,question,general
+1108,Are you interested in astronomy?,question,general
+1109,I'm a bit stressed about work,statement,emotional_expression
+1110,What's rewarding about cooking?,question,food
+1111,What advice would you give about spontaneity?,question,hypothetical
+1112,How has chess influenced you?,question,general
+1113,What's your favorite way to stay motivated?,question,preferences
+1114,What do you think about peace?,question,opinions
+1115,What's your experience with innovation?,question,general
+1116,What's your goal with libraries?,question,general
+1117,How do you stay motivated with kindness?,question,general
+1118,What's your relationship with work?,question,relationships
+1119,I've been reflecting on friendship,statement,thoughts_reflection
+1120,What's your goal with courage?,question,general
+1121,What do you think about social media?,question,opinions
+1122,What's your take on mountains?,question,general
+1123,What's your favorite solitude?,question,preferences
+1124,How do you approach museums?,question,general
+1125,What's interesting about creativity?,question,food
+1126,What's your experience with games?,question,general
+1127,Do you enjoy cleaning?,question,general
+1128,What do you think about modern art?,question,opinions
+1129,What's your favorite spontaneity?,question,preferences
+1130,How important is puzzles to you?,question,general
+1131,What advice would you give about cooking?,question,hypothetical
+1132,What's your goal with nature?,question,general
+1133,How do you feel about swimming?,question,opinions
+1134,What's a social issue you care about?,question,relationships
+1135,How do you stay motivated with challenges?,question,general
+1136,What advice would you give about parks?,question,hypothetical
+1137,How important is hobbies to you?,question,general
+1138,How has gardening influenced you?,question,general
+1139,How has loyalty influenced you?,question,general
+1140,What do you think about cooking?,question,opinions
+1141,What's your goal with reading?,question,general
+1142,What's your favorite kindness?,question,preferences
+1143,What's your go-to karaoke song?,question,general
+1144,How do you stay motivated with cycling?,question,general
+1145,What's rewarding about wisdom?,question,general
+1146,What's your experience with patience?,question,general
+1147,How do you share chess with others?,question,general
+1148,What's your take on balance?,question,general
+1149,What do you think about balance?,question,opinions
+1150,How do you stay motivated with volunteering?,question,general
+1151,What's your relationship with courage?,question,relationships
+1152,I've been reflecting on my goals,statement,thoughts_reflection
+1153,What's your experience with change?,question,general
+1154,What's your relationship with companionship?,question,relationships
+1155,How do you share books with others?,question,entertainment
+1156,I've been wondering about technology's impact,statement,thoughts_reflection
+1157,How do you approach cards?,question,general
+1158,How do you share solitude with others?,question,general
+1159,What's your relationship with gardening?,question,relationships
+1160,How would you describe volunteering?,question,hypothetical
+1161,How do you feel about volunteering?,question,opinions
+1162,What's your goal with communities?,question,general
+1163,I had a moment of clarity,statement,experiences
+1164,How do you stay motivated with routine?,question,daily_life
+1165,What's interesting about memories?,question,general
+1166,I went on a hiking trip,statement,general_statement
+1167,Tell me about gardening,statement,general_statement
+1168,What role does beaches play in your life?,question,general
+1169,What's surprising about pets?,question,general
+1170,What's your take on cooking?,question,food
+1171,I'm considering adopting a pet,statement,thoughts_reflection
+1172,How would you describe patience?,question,hypothetical
+1173,What's your favorite pizza topping?,question,preferences
+1174,What's your take on change?,question,general
+1175,How do you share libraries with others?,question,general
+1176,How do you share music with others?,question,entertainment
+1177,What's challenging about concerts?,question,general
+1178,What's your favorite comfort?,question,preferences
+1179,What's your relationship with wisdom?,question,relationships
+1180,How would you describe adventure?,question,hypothetical
+1181,I really value authenticity in people,statement,personal_preferences
+1182,How do you stay motivated with libraries?,question,general
+1183,How do you feel about movies?,question,opinions
+1184,What's your relationship with art?,question,relationships
+1185,How do you share happiness with others?,question,general
+1186,What's your experience with drawing?,question,general
+1187,What's your relationship with libraries?,question,relationships
+1188,What's surprising about books?,question,entertainment
+1189,What's challenging about crafts?,question,general
+1190,What do you think about dancing?,question,opinions
+1191,How do you approach work?,question,career
+1192,What do you think about chess?,question,opinions
+1193,What's challenging about pets?,question,general
+1194,Do you enjoy grocery shopping?,question,general
+1195,What's your favorite risk?,question,preferences
+1196,What's rewarding about meditation?,question,general
+1197,What's your experience with happiness?,question,general
+1198,What role does solitude play in your life?,question,general
+1199,How has courage influenced you?,question,general
+1200,How would you describe innovation?,question,hypothetical
+1201,What do you think about writing?,question,opinions
+1202,What's your goal with comfort?,question,general
+1203,How do you share companionship with others?,question,general
+1204,What's your take on online shopping?,question,general
+1205,What role does travel play in your life?,question,travel
+1206,How do you approach traditions?,question,general
+1207,How do you share discovery with others?,question,general
+1208,What's surprising about challenges?,question,general
+1209,How do you share hiking with others?,question,general
+1210,How important is kindness to you?,question,general
+1211,I hope to find more work-life balance,statement,future_plans
+1212,What's your favorite singing?,question,preferences
+1213,How has travel influenced you?,question,travel
+1214,Tell me about singing,statement,general_statement
+1215,How would you describe hiking?,question,hypothetical
+1216,How do you stay motivated with photography?,question,general
+1217,What role does crafts play in your life?,question,general
+1218,What's interesting about swimming?,question,general
+1219,What do you think about risk?,question,opinions
+1220,Tell me about wonder,statement,general_statement
+1221,How has beaches influenced you?,question,general
+1222,How do you share courage with others?,question,general
+1223,How has wisdom influenced you?,question,general
+1224,I hope to become more patient,statement,future_plans
+1225,What's surprising about courage?,question,general
+1226,"If you could fly or breathe underwater, which would you choose?",question,hypothetical
+1227,I finished a great book yesterday,statement,daily_experience
+1228,What role does libraries play in your life?,question,general
+1229,What's rewarding about courage?,question,general
+1230,How do you feel about crafts?,question,opinions
+1231,What advice would you give about peace?,question,hypothetical
+1232,How has festivals influenced you?,question,general
+1233,What's your favorite writing?,question,preferences
+1234,What's your take on challenges?,question,general
+1235,What's rewarding about running?,question,general
+1236,How do you share puzzles with others?,question,general
+1237,What's your relationship with learning?,question,relationships
+1238,What do you think about hiking?,question,opinions
+1239,How would you describe success?,question,hypothetical
+1240,What's your relationship with parks?,question,relationships
+1241,What's your preferred method of communication?,question,preferences
+1242,How do you approach cycling?,question,general
+1243,I started a new hobby,statement,experiences
+1244,What's rewarding about change?,question,general
+1245,What's rewarding about peace?,question,general
+1246,How do you feel about art?,question,opinions
+1247,Tell me about photography,statement,general_statement
+1248,What's your relationship with success?,question,relationships
+1249,How do you approach gardening?,question,general
+1250,What's rewarding about yoga?,question,general
+1251,What's your take on podcasts?,question,general
+1252,What's your favorite discovery?,question,preferences
+1253,What role does work play in your life?,question,career
+1254,What's challenging about traditions?,question,general
+1255,What's surprising about creativity?,question,food
+1256,What's surprising about solitude?,question,general
+1257,I had a reunion with old classmates,statement,experiences
+1258,How do you share parks with others?,question,general
+1259,What role does yoga play in your life?,question,general
+1260,What's your take on reading?,question,general
+1261,Do you prefer subtitles or dubbing for foreign films?,question,preferences
+1262,What's your goal with routine?,question,daily_life
+1263,How would you describe risk?,question,hypothetical
+1264,What's interesting about crafts?,question,general
+1265,What's the most interesting cultural experience you've had?,question,general
+1266,How important is crafts to you?,question,general
+1267,I've been thinking about what makes me happy,statement,emotional_expression
+1268,"If you could have any superpower, what would it be?",question,hypothetical
+1269,What's your favorite way to spend a rainy day?,question,preferences
+1270,What was your least favorite chore as a child?,question,preferences
+1271,What advice would you give about travel?,question,hypothetical
+1272,How important is books to you?,question,entertainment
+1273,How has drawing influenced you?,question,general
+1274,How do you deal with difficult people?,question,general
+1275,What's rewarding about crafts?,question,general
+1276,What's your guilty pleasure?,question,general
+1277,What's interesting about meditation?,question,general
+1278,How do you stay motivated with hobbies?,question,general
+1279,How do you feel about writing?,question,opinions
+1280,What's your relationship with games?,question,relationships
+1281,What role does movies play in your life?,question,entertainment
+1282,What's rewarding about cards?,question,general
+1283,How do you feel about creativity?,question,opinions
+1284,How do you stay motivated with discovery?,question,general
+1285,What's interesting about nature?,question,general
+1286,How do you feel about puzzles?,question,opinions
+1287,What's rewarding about technology?,question,general
+1288,What's your take on family?,question,relationships
+1289,What's your morning beverage of choice?,question,daily_life
+1290,What's your take on singing?,question,general
+1291,What's rewarding about exercise?,question,general
+1292,What role does chess play in your life?,question,general
+1293,How do you share communities with others?,question,general
+1294,How do you approach singing?,question,general
+1295,I really appreciate good design,statement,personal_preferences
+1296,What do you think about drawing?,question,opinions
+1297,I prefer texting over phone calls,statement,personal_preferences
+1298,What's rewarding about photography?,question,general
+1299,What's your take on friendship?,question,relationships
+1300,What's your favorite day of the week?,question,preferences
+1301,I'm trying to eat healthier,statement,general_statement
+1302,I had a family reunion over the weekend,statement,daily_experience
+1303,What advice would you give about balance?,question,hypothetical
+1304,What do you think about wonder?,question,opinions
+1305,What's your relationship with hiking?,question,relationships
+1306,What's your relationship with routine?,question,relationships
+1307,How important is concerts to you?,question,general
+1308,What's your morning routine like?,question,preferences
+1309,I plan to spend more time in nature,statement,general_statement
+1310,Tell me about cooking,statement,general_statement
+1311,What's your relationship with comfort?,question,relationships
+1312,What advice would you give about singing?,question,hypothetical
+1313,How has nature influenced you?,question,general
+1314,What's your goal with wonder?,question,general
+1315,How do you stay motivated with festivals?,question,general
+1316,What role does peace play in your life?,question,general
+1317,What's your relationship with loyalty?,question,relationships
+1318,Tell me about creativity,statement,general_statement
+1319,How do you define success?,question,general
+1320,What advice would you give about games?,question,hypothetical
+1321,What's surprising about nature?,question,general
+1322,What's your relationship with dreams?,question,relationships
+1323,I've been listening to this amazing podcast,statement,general_statement
+1324,Tell me about challenges,statement,general_statement
+1325,What's your take on courage?,question,general
+1326,What's your experience with exercise?,question,general
+1327,What's your experience with work?,question,career
+1328,What do you think about hobbies?,question,opinions
+1329,What role does gardening play in your life?,question,general
+1330,What's rewarding about honesty?,question,general
+1331,What's your favorite independence?,question,preferences
+1332,What's your goal with music?,question,entertainment
+1333,I'm contemplating a major life change,statement,thoughts_reflection
+1334,What do you think about change?,question,opinions
+1335,What's surprising about travel?,question,travel
+1336,What's your favorite reading?,question,preferences
+1337,How has swimming influenced you?,question,general
+1338,What's your experience with concerts?,question,general
+1339,How do you share mountains with others?,question,general
+1340,What's challenging about technology?,question,general
+1341,What's interesting about friendship?,question,relationships
+1342,How do you feel about technology?,question,opinions
+1343,What advice would you give about comfort?,question,hypothetical
+1344,How has routine influenced you?,question,daily_life
+1345,What role does success play in your life?,question,general
+1346,What's rewarding about creativity?,question,food
+1347,What do you think about crafts?,question,opinions
+1348,What role does cooking play in your life?,question,food
+1349,What do you think about volunteering?,question,opinions
+1350,How would you describe mountains?,question,hypothetical
+1351,How do you share routine with others?,question,daily_life
+1352,What crafts do you enjoy?,question,general
+1353,What's your take on puzzles?,question,general
+1354,What's surprising about memories?,question,general
+1355,How do you approach music?,question,entertainment
+1356,What do you think about patience?,question,opinions
+1357,How would you describe family?,question,hypothetical
+1358,I want to improve my communication skills,statement,future_plans
+1359,How important is traditions to you?,question,general
+1360,What's your goal with success?,question,general
+1361,What role does festivals play in your life?,question,general
+1362,How do you stay motivated with music?,question,entertainment
+1363,How do you feel about mountains?,question,opinions
+1364,What's your goal with growth?,question,general
+1365,What's your relationship with yoga?,question,relationships
+1366,I really enjoy meaningful conversations,statement,personal_preferences
+1367,What do you think about yoga?,question,opinions
+1368,How important is dancing to you?,question,general
+1369,What's interesting about podcasts?,question,general
+1370,Do you prefer calling or texting?,question,preferences
+1371,How do you share goals with others?,question,general
+1372,Do you prefer indoor or outdoor activities?,question,preferences
+1373,How do you share kindness with others?,question,general
+1374,Have you ever been to a different country?,question,general
+1375,What do you think about happiness?,question,opinions
+1376,What do you think about museums?,question,opinions
+1377,What's surprising about companionship?,question,general
+1378,What's rewarding about gardening?,question,general
+1379,Tell me about honesty,statement,general_statement
+1380,How do you stay motivated with reading?,question,general
+1381,Tell me about parks,statement,general_statement
+1382,What role does art play in your life?,question,general
+1383,What's your goal with mountains?,question,general
+1384,What advice would you give about cycling?,question,hypothetical
+1385,What's challenging about work?,question,career
+1386,What's your experience with loyalty?,question,general
+1387,What's challenging about cards?,question,general
+1388,How important is podcasts to you?,question,general
+1389,How do you share swimming with others?,question,general
+1390,Do you like to binge-watch series?,question,preferences
+1391,How do you feel about sports?,question,opinions
+1392,How do you feel about concerts?,question,opinions
+1393,I've been exercising more regularly,statement,general_statement
+1394,What do you think about gardening?,question,opinions
+1395,How do you stay motivated with spontaneity?,question,general
+1396,What's surprising about gardening?,question,general
+1397,Do you believe in fate or free will?,question,opinions
+1398,What's your favorite happiness?,question,preferences
+1399,How do you share cooking with others?,question,food
+1400,What advice would you give about hobbies?,question,hypothetical
+1401,How do you feel about chess?,question,opinions
+1402,What's your goal with singing?,question,general
+1403,How important is balance to you?,question,general
+1404,How do you like to start your day?,question,preferences
+1405,What's your relationship with change?,question,relationships
+1406,"If you could speak any language fluently, which would it be?",question,hypothetical
+1407,What's your dream vacation destination?,question,travel
+1408,What's your experience with museums?,question,general
+1409,What's rewarding about comfort?,question,general
+1410,What's your favorite city?,question,preferences
+1411,How do you share innovation with others?,question,general
+1412,What's your experience with reading?,question,general
+1413,What do you think about creativity?,question,opinions
+1414,How has wonder influenced you?,question,general
+1415,Do you believe in aliens?,question,opinions
+1416,What's your go-to conversation starter?,question,general
+1417,What's the furthest you've traveled from home?,question,travel
+1418,What's your experience with solitude?,question,general
+1419,How do you stay motivated with swimming?,question,general
+1420,What's rewarding about discovery?,question,general
+1421,How has meditation influenced you?,question,general
+1422,What's rewarding about cities?,question,general
+1423,How important is cycling to you?,question,general
+1424,How do you approach meditation?,question,general
+1425,What advice would you give about adventure?,question,hypothetical
+1426,What's your experience with volunteering?,question,general
+1427,How has music influenced you?,question,entertainment
+1428,How important is cooking to you?,question,food
+1429,What's challenging about happiness?,question,general
+1430,What's your relationship with cycling?,question,relationships
+1431,How do you approach movies?,question,entertainment
+1432,What's the first thing you do when you get home?,question,general
+1433,How do you stay motivated with curiosity?,question,general
+1434,I prefer quiet evenings at home,statement,personal_preferences
+1435,What's your favorite movies?,question,preferences
+1436,I love discovering new music,statement,personal_preferences
+1437,How do you usually spend your free time?,question,general
+1438,I had a deep conversation with someone,statement,experiences
+1439,How important is parks to you?,question,general
+1440,What's your experience with honesty?,question,general
+1441,What's your favorite beaches?,question,preferences
+1442,How do you approach crafts?,question,general
+1443,How do you stay motivated with nature?,question,general
+1444,How has balance influenced you?,question,general
+1445,I'm considering a digital detox,statement,thoughts_reflection
+1446,What's your goal with honesty?,question,general
+1447,I'm in such a good mood,statement,emotional_expression
+1448,What do you think about swimming?,question,opinions
+1449,How do you approach peace?,question,general
+1450,What's your favorite libraries?,question,preferences
+1451,How are you feeling today?,question,opinions
+1452,What's your take on games?,question,general
+1453,Tell me about podcasts,statement,general_statement
+1454,What advice would you give about solitude?,question,hypothetical
+1455,Do you like to try exotic foods?,question,preferences
+1456,Tell me about friendship,statement,general_statement
+1457,What's your relationship with friendship?,question,relationships
+1458,What's your experience with challenges?,question,general
+1459,How do you share spontaneity with others?,question,general
+1460,What's your experience with spontaneity?,question,general
+1461,What do you think about companionship?,question,opinions
+1462,I'm feeling quite confident today,statement,emotional_expression
+1463,How do you stay motivated with honesty?,question,general
+1464,What's your relationship with swimming?,question,relationships
+1465,What's your goal with technology?,question,general
+1466,What's challenging about hobbies?,question,general
+1467,How do you stay motivated with chess?,question,general
+1468,How has memories influenced you?,question,general
+1469,What's your experience with companionship?,question,general
+1470,What's your favorite pets?,question,preferences
+1471,What's your take on kindness?,question,general
+1472,How do you feel about hobbies?,question,opinions
+1473,How has singing influenced you?,question,general
+1474,What's your experience with mountains?,question,general
+1475,Do you like stand-up comedy?,question,preferences
+1476,"If you could be invisible for a day, what would you do?",question,hypothetical
+1477,What's surprising about exercise?,question,general
+1478,What's your goal with traditions?,question,general
+1479,Do you prefer traveling alone or with others?,question,preferences
+1480,I want to develop better habits,statement,future_plans
+1481,How do you approach beaches?,question,general
+1482,Do you prefer sweet or savory snacks?,question,preferences
+1483,What's challenging about goals?,question,general
+1484,What's your goal with learning?,question,general
+1485,How do you stay motivated with concerts?,question,general
+1486,Did you have a favorite teacher?,question,preferences
+1487,How important is art to you?,question,general
+1488,I'm so excited about this weekend,statement,emotional_expression
+1489,How do you feel about work?,question,opinions
+1490,What's challenging about yoga?,question,general
+1491,What's surprising about art?,question,general
+1492,How would you describe routine?,question,hypothetical
+1493,What's interesting about innovation?,question,general
+1494,What's your favorite curiosity?,question,preferences
+1495,What's your favorite documentary?,question,preferences
+1496,How has yoga influenced you?,question,general
+1497,What's your favorite concerts?,question,preferences
+1498,What's your favorite communities?,question,preferences
+1499,How would you describe traditions?,question,hypothetical
+1500,How would you describe memories?,question,hypothetical
+1501,What's your take on innovation?,question,general
+1502,What's surprising about museums?,question,general
+1503,Do you like to visit museums when you travel?,question,preferences
+1504,What's your goal with books?,question,entertainment
+1505,How important is dreams to you?,question,general
+1506,How has honesty influenced you?,question,general
+1507,What's your take on libraries?,question,general
+1508,What's surprising about communities?,question,general
+1509,What's rewarding about growth?,question,general
+1510,I'm trying to reduce my screen time,statement,general_statement
+1511,What's challenging about meditation?,question,general
+1512,I overcame a fear today,statement,daily_experience
+1513,How important is creativity to you?,question,food
+1514,What's your favorite way to learn?,question,preferences
+1515,What's rewarding about dancing?,question,general
+1516,What's your relationship with innovation?,question,relationships
+1517,What's rewarding about patience?,question,general
+1518,How has friendship influenced you?,question,relationships
+1519,Tell me about travel,statement,general_statement
+1520,How do you feel about risk?,question,opinions
+1521,How do you stay motivated with singing?,question,general
+1522,What's your go-to stress reliever?,question,general
+1523,What's your experience with independence?,question,general
+1524,Do you think people are generally good?,question,opinions
+1525,What's your take on parks?,question,general
+1526,What's your go-to comfort food when sick?,question,food
+1527,How important is solitude to you?,question,general
+1528,How has innovation influenced you?,question,general
+1529,What role does change play in your life?,question,general
+1530,How do you share singing with others?,question,general
+1531,How has volunteering influenced you?,question,general
+1532,What role does reading play in your life?,question,general
+1533,Tell me about mountains,statement,general_statement
+1534,How has puzzles influenced you?,question,general
+1535,What's interesting about cities?,question,general
+1536,What do you think about meditation?,question,opinions
+1537,What's your favorite drawing?,question,preferences
+1538,What's your favorite companionship?,question,preferences
+1539,What's your approach to goal setting?,question,general
+1540,What advice would you give about books?,question,hypothetical
+1541,What's your experience with goals?,question,general
+1542,What's your relationship with traditions?,question,relationships
+1543,What's your favorite wisdom?,question,preferences
+1544,What's interesting about comfort?,question,general
+1545,How important is loyalty to you?,question,general
+1546,What's your experience with cycling?,question,general
+1547,What's interesting about parks?,question,general
+1548,What's challenging about cooking?,question,food
+1549,I realized something important about myself,statement,thoughts_reflection
+1550,How do you organize your living space?,question,general
+1551,How do you stay motivated with balance?,question,general
+1552,What's your favorite thing about your personality?,question,preferences
+1553,What advice would you give about gardening?,question,hypothetical
+1554,How would you describe courage?,question,hypothetical
+1555,What's surprising about wonder?,question,general
+1556,How do you share family with others?,question,relationships
+1557,How do you stay motivated with museums?,question,general
+1558,Do you enjoy photography?,question,general
+1559,I've been thinking about kindness,statement,thoughts_reflection
+1560,How do you share curiosity with others?,question,general
+1561,What's your take on creativity?,question,food
+1562,What's your go-to method for staying organized?,question,general
+1563,What's your experience with cooking?,question,food
+1564,How do you share pets with others?,question,general
+1565,What's surprising about comfort?,question,general
+1566,I went for a long walk today,statement,daily_experience
+1567,Did you enjoy playing outside as a child?,question,general
+1568,What's rewarding about sports?,question,general
+1569,What's your goal with travel?,question,travel
+1570,How important is games to you?,question,general
+1571,What's the best compliment you've ever received?,question,general
+1572,Are you interested in history?,question,general
+1573,How important is beaches to you?,question,general
+1574,What's your experience with swimming?,question,general
+1575,What's surprising about games?,question,general
+1576,What's your take on beaches?,question,general
+1577,How do you stay motivated with success?,question,general
+1578,I hope to find my passion,statement,future_plans
+1579,What's your relationship with cities?,question,relationships
+1580,Did you have a favorite bedtime story?,question,preferences
+1581,What's rewarding about travel?,question,travel
+1582,What's interesting about peace?,question,general
+1583,What's challenging about running?,question,general
+1584,I've been thinking about changing careers,statement,thoughts_reflection
+1585,How would you describe pets?,question,hypothetical
+1586,What's your favorite type of weather?,question,preferences
+1587,What's your favorite balance?,question,preferences
+1588,I met someone really interesting yesterday,statement,daily_experience
+1589,Do you like to bake?,question,preferences
+1590,How's your day going?,question,daily_life
+1591,What advice would you give about communities?,question,hypothetical
+1592,What's surprising about singing?,question,general
+1593,Tell me about meditation,statement,general_statement
+1594,What do you think about beaches?,question,opinions
+1595,How has family influenced you?,question,relationships
+1596,I'm feeling very motivated,statement,emotional_expression
+1597,What's challenging about adventure?,question,general
+1598,How would you describe games?,question,hypothetical
+1599,What's rewarding about balance?,question,general
+1600,What's interesting about pets?,question,general
+1601,What's your favorite chess?,question,preferences
+1602,What's your relationship with drawing?,question,relationships
+1603,Do you like to write?,question,preferences
+1604,What's your ideal day off?,question,daily_life
+1605,What's rewarding about hiking?,question,general
+1606,What's your experience with wonder?,question,general
+1607,How do you approach goals?,question,general
+1608,How important is spontaneity to you?,question,general
+1609,How do you stay motivated with adventure?,question,general
+1610,What role does drawing play in your life?,question,general
+1611,What was your favorite cartoon?,question,preferences
+1612,What's your take on concerts?,question,general
+1613,What's rewarding about museums?,question,general
+1614,I prefer quality over quantity,statement,personal_preferences
+1615,Do you enjoy spicy food?,question,food
+1616,What's your relationship with family?,question,relationships
+1617,What's your experience with books?,question,entertainment
+1618,Tell me about learning,statement,general_statement
+1619,What's your experience with meditation?,question,general
+1620,What's your goal with risk?,question,general
+1621,What's interesting about chess?,question,general
+1622,How would you describe crafts?,question,hypothetical
+1623,How would you describe photography?,question,hypothetical
+1624,What does happiness mean to you?,question,general
+1625,What's challenging about balance?,question,general
+1626,How do you approach challenges?,question,general
+1627,What's your favorite podcast?,question,preferences
+1628,How do you approach discovery?,question,general
+1629,What's your take on museums?,question,general
+1630,What's your experience with podcasts?,question,general
+1631,"If you had to eat one food for the rest of your life, what would it be?",question,food
+1632,How do you feel about hiking?,question,opinions
+1633,How has peace influenced you?,question,general
+1634,How would you describe loyalty?,question,hypothetical
+1635,What's challenging about parks?,question,general
+1636,What's your goal with wisdom?,question,general
+1637,Do you prefer to multitask or focus on one thing?,question,preferences
+1638,How do you share festivals with others?,question,general
+1639,What's your goal with hiking?,question,general
+1640,Tell me about wisdom,statement,general_statement
+1641,What do you think about games?,question,opinions
+1642,Tell me about risk,statement,general_statement
+1643,How do you stay motivated with dancing?,question,general
+1644,What's your goal with change?,question,general
+1645,How important is wonder to you?,question,general
+1646,What role does podcasts play in your life?,question,general
+1647,What advice would you give about swimming?,question,hypothetical
+1648,How do you stay connected with friends and family?,question,relationships
+1649,What advice would you give about curiosity?,question,hypothetical
+1650,What's your relationship with running?,question,relationships
+1651,What's your favorite puzzles?,question,preferences
+1652,Tell me about chess,statement,general_statement
+1653,How has adventure influenced you?,question,general
+1654,How would you describe wisdom?,question,hypothetical
+1655,What's surprising about hiking?,question,general
+1656,What role does spontaneity play in your life?,question,general
+1657,How has podcasts influenced you?,question,general
+1658,What's challenging about volunteering?,question,general
+1659,What makes a good friend?,question,relationships
+1660,What role does exercise play in your life?,question,general
+1661,What's challenging about cities?,question,general
+1662,What's your favorite museums?,question,preferences
+1663,What's interesting about discovery?,question,general
+1664,I'm contemplating the importance of work-life balance,statement,thoughts_reflection
+1665,What's your favorite adventure?,question,preferences
+1666,Do you prefer home-cooked meals or eating out?,question,preferences
+1667,How was your weekend?,question,general
+1668,What's the last movie you watched?,question,entertainment
+1669,Do you like reality TV shows?,question,preferences
+1670,How would you describe drawing?,question,hypothetical
+1671,I find cooking very therapeutic,statement,general_statement
+1672,What's your take on peace?,question,general
+1673,What advice would you give about companionship?,question,hypothetical
+1674,Tell me about spontaneity,statement,general_statement
+1675,How important is adventure to you?,question,general
+1676,What's your goal with companionship?,question,general
+1677,What's your take on writing?,question,general
+1678,What's surprising about wisdom?,question,general
+1679,How do you share photography with others?,question,general
+1680,What's rewarding about drawing?,question,general
+1681,How do you stay motivated with dreams?,question,general
+1682,Are you into gardening?,question,general
+1683,What's the best food you've tried while traveling?,question,food
+1684,What's challenging about exercise?,question,general
+1685,Have you ever been camping?,question,general
+1686,What's interesting about growth?,question,general
+1687,"If you could have dinner with anyone, who would it be?",question,hypothetical
+1688,How has happiness influenced you?,question,general
+1689,What's your superpower in friendships?,question,relationships
+1690,What role does technology play in your life?,question,general
+1691,How do you approach solitude?,question,general
+1692,How do you stay motivated with risk?,question,general
+1693,How do you feel about comfort?,question,opinions
+1694,What's rewarding about challenges?,question,general
+1695,Tell me about traditions,statement,general_statement
+1696,What's rewarding about hobbies?,question,general
+1697,How would you describe change?,question,hypothetical
+1698,What's challenging about success?,question,general
+1699,What's interesting about courage?,question,general
+1700,What's your favorite honesty?,question,preferences
+1701,What's challenging about singing?,question,general
+1702,"If you won the lottery, what would you do first?",question,hypothetical
+1703,How has risk influenced you?,question,general
+1704,Tell me about dreams,statement,general_statement
+1705,What's interesting about curiosity?,question,general
+1706,What's challenging about comfort?,question,general
+1707,What advice would you give about loyalty?,question,hypothetical
+1708,How important is learning to you?,question,general
+1709,What's your take on yoga?,question,general
+1710,What's your take on hobbies?,question,general
+1711,Tell me about puzzles,statement,general_statement
+1712,What role does writing play in your life?,question,general
+1713,How do you feel about games?,question,opinions
+1714,I've been working from home more often,statement,general_statement
+1715,What's surprising about hobbies?,question,general
+1716,What's your experience with parks?,question,general
+1717,What advice would you give about wisdom?,question,hypothetical
+1718,I attended my friend's wedding,statement,experiences
+1719,What's surprising about change?,question,general
+1720,How has writing influenced you?,question,general
+1721,Tell me about curiosity,statement,general_statement
+1722,What's challenging about family?,question,relationships
+1723,Tell me about courage,statement,general_statement
+1724,How would you describe comfort?,question,hypothetical
+1725,What's surprising about honesty?,question,general
+1726,What's your backup plan?,question,general
+1727,How do you feel about learning?,question,opinions
+1728,I had the worst customer service experience today,statement,daily_experience
+1729,How has movies influenced you?,question,entertainment
+1730,What role does balance play in your life?,question,general
+1731,How do you celebrate achievements?,question,general
+1732,How has cards influenced you?,question,general
+1733,I'm thinking about taking a break from social media,statement,thoughts_reflection
+1734,I started taking a new class,statement,experiences
+1735,What's interesting about dancing?,question,general
+1736,What's surprising about routine?,question,daily_life
+1737,Tell me about reading,statement,general_statement
+1738,I'm hoping to travel more next year,statement,future_plans
+1739,How do you feel about beaches?,question,opinions
+1740,How do you stay motivated with friendship?,question,relationships
+1741,What's rewarding about kindness?,question,general
+1742,What role does nature play in your life?,question,general
+1743,What's surprising about loyalty?,question,general
+1744,What's your relationship with happiness?,question,relationships
+1745,What's your biggest pet peeve?,question,general
+1746,How do you feel about peace?,question,opinions
+1747,What's interesting about games?,question,general
+1748,Where would you love to travel next?,question,preferences
+1749,What's your goal with dreams?,question,general
+1750,Tell me about technology,statement,general_statement
+1751,I prefer experiences over material things,statement,personal_preferences
+1752,How would you describe meditation?,question,hypothetical
+1753,How do you share wonder with others?,question,general
+1754,How has crafts influenced you?,question,general
+1755,How would you describe curiosity?,question,hypothetical
+1756,How do you approach yoga?,question,general
+1757,How do you stay hopeful during difficult times?,question,general
+1758,What's your experience with hiking?,question,general
+1759,What's your favorite growth?,question,preferences
+1760,How do you share challenges with others?,question,general
+1761,How important is reading to you?,question,general
+1762,What role does hiking play in your life?,question,general
+1763,What role does concerts play in your life?,question,general
+1764,How do you feel about podcasts?,question,opinions
+1765,What's challenging about dreams?,question,general
+1766,How do you feel about innovation?,question,opinions
+1767,What's your biggest accomplishment?,question,general
+1768,How has reading influenced you?,question,general
+1769,What do you think about friendship?,question,opinions
+1770,What's your take on pets?,question,general
+1771,Are you a morning person or a night owl?,question,daily_life
+1772,What's your take on volunteering?,question,general
+1773,What's rewarding about cycling?,question,general
+1774,Do you like spicy food?,question,preferences
+1775,Do you enjoy musicals?,question,entertainment
+1776,What's your relationship with books?,question,entertainment
+1777,I volunteered at a local charity,statement,general_statement
+1778,How has parks influenced you?,question,general
+1779,What's your experience with movies?,question,entertainment
+1780,How do you share creativity with others?,question,food
+1781,How do you share concerts with others?,question,general
+1782,How do you feel about change?,question,opinions
+1783,What advice would you give about routine?,question,hypothetical
+1784,What's rewarding about nature?,question,general
+1785,How important is drawing to you?,question,general
+1786,How do you stay motivated with wonder?,question,general
+1787,What's rewarding about risk?,question,general
+1788,Traffic was terrible this morning,statement,daily_experience
+1789,How do you approach success?,question,general
+1790,What's rewarding about podcasts?,question,general
+1791,What's your favorite way to stay connected with friends?,question,preferences
+1792,What's interesting about challenges?,question,general
+1793,What's your hidden talent?,question,general
+1794,How do you share beaches with others?,question,general
+1795,What advice would you give about independence?,question,hypothetical
+1796,How important is happiness to you?,question,general
+1797,What do you think about cycling?,question,opinions
+1798,What's your favorite hobbies?,question,preferences
+1799,What's your take on art?,question,general
+1800,What's your experience with comfort?,question,general
+1801,How do you feel about goals?,question,opinions
+1802,What's surprising about podcasts?,question,general
+1803,What do you think about reading?,question,opinions
+1804,Tell me about games,statement,general_statement
+1805,What's your favorite emoji?,question,preferences
+1806,How do you share wisdom with others?,question,general
+1807,How would you describe cycling?,question,hypothetical
+1808,What's surprising about cities?,question,general
+1809,What role does cards play in your life?,question,general
+1810,How do you share art with others?,question,general
+1811,What role does routine play in your life?,question,daily_life
+1812,Did you collect anything as a child?,question,general
+1813,How would you describe festivals?,question,hypothetical
+1814,How would you describe cities?,question,hypothetical
+1815,I'm considering learning a new language,statement,thoughts_reflection
+1816,Do you believe in karma?,question,opinions
+1817,How do you feel about yoga?,question,opinions
+1818,What do you think about movies?,question,opinions
+1819,What's interesting about beaches?,question,general
+1820,How do you share technology with others?,question,general
+1821,How do you feel about books?,question,opinions
+1822,How would you describe museums?,question,hypothetical
+1823,Are you a dog person or a cat person?,question,general
+1824,How do you approach swimming?,question,general
+1825,What's your relationship with dancing?,question,relationships
+1826,What's your opinion on remote work?,question,opinions
+1827,How important is honesty to you?,question,general
+1828,How do you feel about dancing?,question,opinions
+1829,What do you think about routine?,question,opinions
+1830,How do you stay motivated with movies?,question,entertainment
+1831,What advice would you give about dancing?,question,hypothetical
+1832,How do you approach cooking?,question,food
+1833,What role does creativity play in your life?,question,food
+1834,What's your goal with writing?,question,general
+1835,I watched a documentary that changed my perspective,statement,general_statement
+1836,How do you stay motivated with companionship?,question,general
+1837,What's your love language?,question,preferences
+1838,What's your take on spontaneity?,question,general
+1839,Tell me about communities,statement,general_statement
+1840,I'm exhausted,statement,general_statement
+1841,How do you feel about companionship?,question,opinions
+1842,What's challenging about music?,question,entertainment
+1843,What's your favorite dreams?,question,preferences
+1844,How do you feel about spontaneity?,question,opinions
+1845,What's your relationship with patience?,question,relationships
+1846,How would you describe growth?,question,hypothetical
+1847,How do you share yoga with others?,question,general
+1848,What's your biggest relationship deal-breaker?,question,relationships
+1849,What do you think about puzzles?,question,opinions
+1850,I want to become more involved in my community,statement,future_plans
+1851,How do you feel about wonder?,question,opinions
+1852,What's your relationship with spontaneity?,question,relationships
+1853,How would you describe reading?,question,hypothetical
+1854,What's interesting about dreams?,question,general
+1855,How do you approach comfort?,question,general
+1856,What do you think about festivals?,question,opinions
+1857,What's your approach to trying new things?,question,general
+1858,How important is innovation to you?,question,general
+1859,How has independence influenced you?,question,general
+1860,How do you feel about photography?,question,opinions
+1861,What's the scariest movie you've ever seen?,question,entertainment
+1862,What's your favorite volunteering?,question,preferences
+1863,Tell me about adventure,statement,general_statement
+1864,What's rewarding about work?,question,career
+1865,What do you think about music?,question,opinions
+1866,What role does honesty play in your life?,question,general
+1867,What's the most important quality in a relationship?,question,relationships
+1868,Tell me about nature,statement,general_statement
+1869,How do you feel about loyalty?,question,opinions
+1870,How do you approach nature?,question,general
+1871,What's interesting about drawing?,question,general
+1872,How important is communities to you?,question,general
+1873,What's your relationship with goals?,question,relationships
+1874,What was your favorite subject in school?,question,preferences
+1875,Do you make your bed every morning?,question,daily_life
+1876,Do you think people should follow their dreams?,question,opinions
+1877,What's your relationship with reading?,question,relationships
+1878,How do you share risk with others?,question,general
+1879,How do you feel about solitude?,question,opinions
+1880,Do you like to plan trips in detail or be spontaneous?,question,preferences
+1881,What advice would you give about goals?,question,hypothetical
+1882,What's your experience with courage?,question,general
+1883,How do you feel about cities?,question,opinions
+1884,What's surprising about cooking?,question,food
+1885,What's rewarding about family?,question,relationships
+1886,What's challenging about solitude?,question,general
+1887,How do you stay motivated with independence?,question,general
+1888,I'm a bit disappointed,statement,emotional_expression
+1889,What's your experience with discovery?,question,general
+1890,What's your favorite technology?,question,preferences
+1891,What's the strangest food you've ever tried?,question,food
+1892,How would you describe peace?,question,hypothetical
+1893,I helped a neighbor today,statement,daily_experience
+1894,What's your goal with happiness?,question,general
+1895,What's challenging about challenges?,question,general
+1896,Do you prefer watching alone or with others?,question,preferences
+1897,"If you could have been born in any country, which would you choose?",question,hypothetical
+1898,What's your favorite way to exercise?,question,preferences
+1899,What's your relationship with volunteering?,question,relationships
+1900,Tell me about drawing,statement,general_statement
+1901,What's surprising about sports?,question,general
+1902,How has curiosity influenced you?,question,general
+1903,What's your approach to making big decisions?,question,general
+1904,What's your goal with puzzles?,question,general
+1905,How do you share friendship with others?,question,relationships
+1906,I'm feeling a bit overwhelmed lately,statement,emotional_expression
+1907,How do you feel about music?,question,opinions
+1908,I love helping others,statement,personal_preferences
+1909,What's your experience with libraries?,question,general
+1910,Do you collect anything?,question,general
+1911,What's your favorite family?,question,preferences
+1912,What's your experience with curiosity?,question,general
+1913,How important is sports to you?,question,general
+1914,What's rewarding about happiness?,question,general
+1915,What do you think about courage?,question,opinions
+1916,How important is swimming to you?,question,general
+1917,Tell me about growth,statement,general_statement
+1918,What's your ideal vacation length?,question,travel
+1919,What's challenging about hiking?,question,general
+1920,Tell me about pets,statement,general_statement
+1921,How would you describe exercise?,question,hypothetical
